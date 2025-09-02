@@ -9,7 +9,8 @@
 ### ✨ Features
 - 🎯 **Aimbot**  
 - 👁️ **ESP**  
-- 🎲 **No Spread**  
+- 🎲 **No Spread**
+- 🧨 **Teleport Exploit**  
 - ⚡ ...and much more!
 
 ---

@@ -1,9 +1,5 @@
 <h1 align="center" style="color:#ff7a29;">Arithmetic</h1>
 
-<p align="center">
-  <b style="color:#ff7a29;">Script for Counter Blox</b>
-</p>
-
 ---
 
 ### ✨ Features

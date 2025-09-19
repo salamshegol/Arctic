@@ -6,7 +6,6 @@
 - 🎯 **Aimbot**  
 - 👁️ **ESP**  
 - 🎲 **No Spread**
-- 🧨 **Teleport Exploit**  
 - ⚡ ...and much more!
 
 ---
